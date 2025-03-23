@@ -1,0 +1,8 @@
+.contPost{
+  justify-content: center;
+  align-items: center;  
+  margin-top: 20px;
+  width: inherit;
+  border: solid rgba(15, 104, 15, 0.682);
+  margin: 25px;
+    }   
