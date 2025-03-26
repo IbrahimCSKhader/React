@@ -1,6 +1,6 @@
 import  "./Poststyle.css"
 export default function Post(props){
-    if(props.content==""){
+    if(props.content===""){
         props.content="defult"
     }
     return (
